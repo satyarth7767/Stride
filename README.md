@@ -90,12 +90,27 @@ The purpose is not to make users stare at a timer all day. It is to create a sim
 
 ---
 
+## 📸 Screenshots
+
+When your final UI screenshots are ready, put them under `assets/screenshots/` and keep this section:
+
+<p align="center">
+  <img src="assets/screenshots/focus.png" width="190" alt="Focus screen" />
+  <img src="assets/screenshots/analytics.png" width="190" alt="Analytics screen" />
+  <img src="assets/screenshots/screentime.png" width="190" alt="Screen time screen" />
+  <img src="assets/screenshots/journal.png" width="190" alt="Journal screen" />
+</p>
+
+---
+
 ## 📂 Project Structure
 
 ```text
 Stride/
 ├── app/
 ├── assets/
+│   ├── stride-logo.png
+│   └── screenshots/
 ├── gradle/
 ├── .env.example
 ├── .gitignore
@@ -163,21 +178,6 @@ Connect an Android device or start an emulator, then run the `app` configuration
 🔄 Advanced analytics
 🔄 Additional study tools
 🔄 Performance improvements
-```
-
----
-
-## 📸 Screenshots
-
-Add final screenshots here when the UI is locked:
-
-```md
-<p align="center">
-  <img src="assets/screenshots/focus.png" width="180" />
-  <img src="assets/screenshots/analytics.png" width="180" />
-  <img src="assets/screenshots/screentime.png" width="180" />
-  <img src="assets/screenshots/journal.png" width="180" />
-</p>
 ```
 
 ---
