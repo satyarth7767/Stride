@@ -88,19 +88,7 @@ The purpose is not to make users stare at a timer all day. It is to create a sim
 - **Android UsageStatsManager** — screen-time data
 - **Gradle** — build system
 
----
-
-## 📸 Screenshots
-
-When your final UI screenshots are ready, put them under `assets/screenshots/` and keep this section:
-
-<p align="center">
-  <img src="assets/screenshots/focus.png" width="190" alt="Focus screen" />
-  <img src="assets/screenshots/analytics.png" width="190" alt="Analytics screen" />
-  <img src="assets/screenshots/screentime.png" width="190" alt="Screen time screen" />
-  <img src="assets/screenshots/journal.png" width="190" alt="Journal screen" />
-</p>
-
+  
 ---
 
 ## 📂 Project Structure
